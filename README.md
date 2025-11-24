@@ -15,6 +15,7 @@ Create `credentials.py` with your Google API key: `GOOGLE_API_KEY = 'your-api-ke
 - **03- Sequential Agent**: Linear pipeline workflows (blog post creation)
 - **04- Parallel Workflows**: Concurrent agent execution (multi-topic research)
 - **05- Loop Workflows**: Iterative refinement cycles (story writing & critique)
+- **06- Creating Agent Tools**: Building custom logic, delegating to specialist agents, and handling real-world complexities
 
 ## Key Components
 
